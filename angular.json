@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Tienda-Online"
+    }
+  },
+  "defaultProject": "Tienda-Online",
+  "cli": {
+    "analytics": false
+  }
 }
