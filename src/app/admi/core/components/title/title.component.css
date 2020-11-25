@@ -1,0 +1,6 @@
+@import "../../../pages/admin.component.css";
+
+h1{
+    color: var(--admin-color);
+    font-size: 1.5rem! important;
+}
